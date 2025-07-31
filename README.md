@@ -1,9 +1,136 @@
-<!-- PROFILE: xperro/xperro -->
-
+<!-- TECH BADGES (centered, grouped by category) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-React%20Native%20%7C%20NestJS%20%7C%20TypeScript-000?style=for-the-badge" alt="Full Stack">
-  <img src="https://img.shields.io/badge/Cloud-GCP%20%7C%20Firebase%20%7C%20Docker-000?style=for-the-badge" alt="Cloud">
+
+  <!-- Languages -->
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://go.dev/">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  <a href="https://www.java.com/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a>
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </a>
+
+  <br/>
+
+  <!-- Frontend & Mobile -->
+  <a href="https://reactnative.dev/">
+    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <a href="https://react.dev/">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <a href="https://ionicframework.com/">
+    <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
+  </a>
+  <a href="https://mui.com/">
+    <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  </a>
+
+  <br/>
+
+  <!-- Backend -->
+  <a href="https://nodejs.org/">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  </a>
+  <a href="https://nestjs.com/">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  </a>
+  <a href="https://expressjs.com/">
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  </a>
+  <a href="https://www.prisma.io/">
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  </a>
+  <a href="https://restfulapi.net/">
+    <img alt="REST" src="https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=swagger&logoColor=white">
+  </a>
+
+  <br/>
+
+  <!-- Data & Scraping -->
+  <a href="https://pptr.dev/">
+    <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white">
+  </a>
+  <a href="https://cheerio.js.org/">
+    <img alt="Cheerio" src="https://img.shields.io/badge/Cheerio.js-333333?style=for-the-badge">
+  </a>
+  <a href="https://platform.openai.com/">
+    <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=white">
+  </a>
+  <a href="https://woocommerce.com/">
+    <img alt="WooCommerce" src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
+  </a>
+  <a href="https://wordpress.org/">
+    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+  </a>
+
+  <br/>
+
+  <!-- Databases -->
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  <a href="https://firebase.google.com/">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  </a>
+
+  <br/>
+
+  <!-- Cloud & DevOps -->
+  <a href="https://cloud.google.com/">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </a>
+  <a href="https://cloud.google.com/run">
+    <img alt="Cloud Run" src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  </a>
+  <a href="https://cloud.google.com/compute">
+    <img alt="Compute Engine" src="https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  </a>
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  <a href="https://nginx.org/">
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  </a>
+  <a href="https://github.com/features/actions">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  </a>
+
+  <br/>
+
+  <!-- Messaging, Analytics & Others -->
+  <a href="https://kafka.apache.org/">
+    <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  </a>
+  <a href="https://marketingplatform.google.com/about/analytics/">
+    <img alt="Google Analytics (GA4)" src="https://img.shields.io/badge/Google%20Analytics%20(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+
 </p>
+
 
 # Hi, I’m Jorge Aguilera 👋
 
@@ -63,9 +190,10 @@ Shows historical price trends to support informed decisions.
 
 ## 🚀 Featured Projects
 
-- **BuildMas** — *Customer management / estimates for construction*  
-  _TypeScript, React, Node/Express, Prisma, PostgreSQL, Docker_  
-  Repo: https://github.com/xperro/BuildMas
+- **WooScrapper** — *WooCommerce plugin (published on WordPress.org)*  
+  Import products directly from a product URL into WooCommerce and **auto-enrich SEO** for product pages (titles/meta/attributes).  
+  _PHP, WordPress/WooCommerce, REST, Node tooling_  
+  Repo: https://github.com/xperro/WooScrapper · Plugin: *https://wordpress.org/plugins/alertaprecio/#description*
 
 - **ApiLeyesChile** — *Spring Boot 3 (Java 17) + Thymeleaf; integrates LeyChile (XML) and BCN (JSON)*  
   _Java, Spring Boot, Thymeleaf, Tailwind_  
@@ -91,7 +219,6 @@ Shows historical price trends to support informed decisions.
 
 <div align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xperro&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xperro&layout=compact)
 
 </div>
