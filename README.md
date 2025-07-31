@@ -155,7 +155,7 @@ Sofware Engineer with **8+ years** building end-to-end products: **mobile apps w
 
 ---
 
-## 🏢 Experience (brief)
+## 🏢 Experience
 
 **Ripley — Senior Full-Stack Engineer (2021–2025)**  
 - Led the **replacement of legacy services** with a modular architecture, improving reliability and deployments.  
@@ -188,7 +188,7 @@ Shows historical price trends to support informed decisions.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Just the publics projects)
 
 - **WooScrapper** — *WooCommerce plugin (published on WordPress.org)*  
   Import products directly from a product URL into WooCommerce and **auto-enrich SEO** for product pages (titles/meta/attributes).  
