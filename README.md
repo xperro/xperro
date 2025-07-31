@@ -188,7 +188,7 @@ Shows historical price trends to support informed decisions.
 
 ---
 
-## 🚀 Featured Projects (Just the publics projects)
+## 🚀 Featured Projects - Just the public's projects -
 
 - **WooScrapper** — *WooCommerce plugin (published on WordPress.org)*  
   Import products directly from a product URL into WooCommerce and **auto-enrich SEO** for product pages (titles/meta/attributes).  
