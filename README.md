@@ -207,7 +207,7 @@ Shows historical price trends to support informed decisions.
 
 ## 🎓 Education, Certifications & Publication
 
-- **Software Engineer** — PUCV  
+- **Software Engineer** — Degree: Professional 6-year engineering degree, equivalent to a U.S. Bachelor’s in Computer Engineering/Computer Science Institution: Pontificia Universidad Católica de Valparaíso (PUCV), Chile
 - **Certifications:** MongoDB **DF100**, **Google Cloud Fundamentals: Core Infrastructure**, **Effective Communication (UAI)**, **Business Intelligence & ML (UAI)**  
 - **Scientific publication (2018):** *Resolution of the Curriculum Mesh Balancing Problem Using a Firefly Algorithm* — Ingeniare (Chilean Journal of Engineering). DOI: 10.4067/S0718-33052018000500102
 
