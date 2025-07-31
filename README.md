@@ -138,7 +138,7 @@ Sofware Engineer with **8+ years** building end-to-end products: **mobile apps w
 
 - 🔭 Innovation: building and operating **Alerta Precio** (Android/iOS).
 - 🎯 Interests: Mobile (React Native), Backend (Node/NestJS), payments integrations, scraping/anti-bot, applied data/ML.
-- 🤝 Open to **Full-Stack / Mobile / Backend** roles (remote or hybrid).
+- 🤝 Open to **Full-Stack / Mobile / Backend** roles (Remoted Prefered).
 
 ---
 
