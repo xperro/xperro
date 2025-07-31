@@ -151,8 +151,6 @@ Sofware Engineer with **8+ years** building end-to-end products: **mobile apps w
 **Cloud & DevOps:** GCP (Cloud Run / Compute Engine), Docker, Nginx, CI/CD  
 **Languages & More:** TypeScript, Python, Go, Java (Spring Boot), WordPress/WooCommerce, Kafka, GA4, Microservices, Git
 
-> *Stack aligned with professional experience and production projects.*
-
 ---
 
 ## 🏢 Experience
